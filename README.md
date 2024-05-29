@@ -49,7 +49,7 @@ The analysis was performed to identify whether a stock split is beneficial for t
 
 A detailed story of the analysis is shared through a Tableau visualization, which includes insights and recommendations based on the data. [Placeholder for Tableau Link]
 
-
+![alt text](https://github.com/Ajay-Deshpande/Stock-Split-Analysis/blob/master/NVDA.png)
 
 ## Conclusion
 
